@@ -19,3 +19,8 @@ In this implementation, the user is playing on the Computer's grid, while the Co
     - The user's grid is currently there for visual purposes, but it's not used interactively.
 
 Once all the battleships have been hit, an alert will let the user know that they have won the game.
+
+## Latest Updates
+
+1. **UX/UI Design**
+    - For now the page has only a basic UX/UI design.

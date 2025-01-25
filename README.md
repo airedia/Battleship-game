@@ -10,7 +10,7 @@ In this implementation, the user is playing on the Computer's grid, while the Co
 1. **User Role (Player)**:
 
     - The user interacts with the Computer's grid by clicking cells to attack.
-    - The _attack_ function determines whether you hit or miss the Computer's ships.
+    - The _attack_ function determines whether the user hits or misses the Computer's ships.
     - Hits are marked with 🔥 (fire) and misses with 💧 (water).
 
 2. **Computer's Role**:
@@ -18,7 +18,7 @@ In this implementation, the user is playing on the Computer's grid, while the Co
     - The Computer doesn’t yet attack the user's grid in the current implementation.
     - The user's grid is currently there for visual purposes, but it's not used interactively.
 
-Once all the battleships have been hit, an alert will let the user know that they have won the game.
+Once all the battleships have been hit, an alert will let the user know that he has won the game.
 
 ## Latest Updates
 

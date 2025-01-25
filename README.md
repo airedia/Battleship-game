@@ -17,3 +17,5 @@ In this implementation, the user is playing on the Computer's grid, while the Co
 
     - The Computer doesn’t yet attack the user's grid in the current implementation.
     - The user's grid is currently there for visual purposes, but it's not used interactively.
+
+Once all the battleships have been hit, an alert will let the user know that they have won the game.

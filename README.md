@@ -23,4 +23,4 @@ Once all the battleships have been hit, an alert will let the user know that the
 ## Latest Updates
 
 1. **UX/UI Design**
-    - For now the page has only a basic UX/UI design.
+    - For now the page has only a basic UX/UI design. Future implementations will be made.

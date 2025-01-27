@@ -7,6 +7,7 @@ A "Battleship" game is a two-player strategy game where each player secretly pos
 
 In this implementation, the user is playing on the Computer's grid, while the Computer's ships are randomly placed on its grid. Here’s how it works:
 
+
 ### Rules in the web-based game
 
 1. **User Role (Player)**:
@@ -22,6 +23,7 @@ In this implementation, the user is playing on the Computer's grid, while the Co
 
 Once all the battleships have been hit, an alert will let the user know that he has won the game.
 
+
 ### Rules in the terminal-based game
 
 1. **_Your Grid_ (Player)**:
@@ -35,6 +37,7 @@ Once all the battleships have been hit, an alert will let the user know that he 
     - The _Enemy Grid_ (_enemy_) doesn’t yet attack the user's grid in the current implementation.
 
 Once all the battleships have been hit, the console will let the user know that he has won the game.
+
 
 #### Before playing the game on your terminal
 

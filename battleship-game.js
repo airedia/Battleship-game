@@ -1,4 +1,19 @@
-// Battleship Game - Basic Implementation
+/*  
+     * Battleship Game - Web-based version
+     * 
+     * Author: Angela Iredia
+     * Description: This is a web-based implementation of the classic Battleship game.
+     * Features:
+     * - Random ship placement for the computer.
+     * - User input to attack specific coordinates.
+     * - Displays hits, misses, and victory messages.
+     * 
+     * How to Play:
+     * - User clicks the tab in the grid to attack the enemy.
+     * 
+     * Property of: Angela Iredia
+     * Created: 25/01/2025
+*/
 
 // Create the game grid
 const createGrid = (size) => {
